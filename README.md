@@ -1,6 +1,8 @@
-# Phillweston Readme File
+# Phillweston Personal Statement
 
 👋 Hi, I’m @Phillweston
+
+🏫 I graduated from Xidian University with a bachelor's degree in electronic information engineering.
 
 👀 I’m interested in control theory & aircraft navigation and decision.
 
