@@ -10,8 +10,6 @@
 
 💻 I’m working as a decision planning algorithms engineer in eVTOL field in AutoFlight.
 
-☎️ Contact me: (+86)150 0466 3140
-
 📧 Email me:
 
 - 2436559745@qq.com
