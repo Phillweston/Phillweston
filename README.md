@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="main-logo.jpg" alt="Phillweston Description" width="150"/>
+  <img src="main-logo.png" alt="Phillweston Description" width="150"/>
 </p>
 
 # Phillweston: A Journey in Electronic Information Engineering & Beyond
