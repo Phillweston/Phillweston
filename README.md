@@ -21,14 +21,17 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+🔍 **GitHub Profile Overview:** A detailed snapshot of my contributions and activities on GitHub:
+
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phillweston&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 📊 **Programming Languages & Tools:** My technical repertoire, as reflected in my GitHub stats:
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phillweston&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phillweston&layout=compact&theme=github)](https://github.com/anuraghazra/github-readme-stats)
 
-📈 **GitHub Highlights:**
+🌟 **My GitHub Journey:** Insights into my GitHub activities and achievements:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phillweston&show_icons=true&theme=darcula&hide_title=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phillweston&show_icons=true&theme=github&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 🌐 **Discover More:** Visit my website for a deeper dive into my projects, thoughts, and professional journey:
 - [My Personal Website](https://www.phillweston.xyz/)
