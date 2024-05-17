@@ -26,12 +26,16 @@
 - [Antenna Tracking Drone Project](https://github.com/Phillweston/Antenna-Tracking-Drone-Project): Antenna tracking drone project cooperated with the antenna department of the School of Electronic Engineering, Xidian University.
 - [DJI MSDK Development](https://github.com/Phillweston/DJI_MSDK_Development): DJI MSDK APP development for DJI aircraft.
 - [rosettadrone](https://github.com/Phillweston/rosettadrone): The Rosetta Drone 2 Project. Enable Mavlink and H.264 on DJI drones.
+- [P450 Experiment](https://github.com/Phillweston/p450_experiment): The P450 Experiment is a project that uses the PX4 flight control system to control the P450 drone in the ROS environment.
+- [Prometheus YoloV5 Tracking](https://github.com/Phillweston/Prometheus_YoloV5_Tracking): A modified version including YoloV5 and KCF algorithm for tracking in the Prometheus drone project.
 
 ## AI & Machine Learning Projects
 
 - [Disk Failure Prediction](https://github.com/Phillweston/Disk-Failure-Prediction): Using KNN and LSTM to predict hard disk failures.
 - [Disk Failure Prediction (New)](https://github.com/Prognostika/tcn-hard-disk-failure-prediction): Using TCN, LSTM and RandomForest to predict hard disk failures.
 - [Prognostika Website](https://github.com/Prognostika/prognostika.github.io): The website of "Prognostika - Hard Disk Failure Prediction" project.
+- [2021MCM-ICM ipynb](https://github.com/Phillweston/2021MCM-ICM_ipynb): The Jupyter Notebook of the 2021 MCM/ICM competition.
+- [2021MCM-ICM LATEX](https://github.com/Phillweston/2021MCM-ICM_LATEX): The Paper of the 2021 MCM/ICM competition.
 
 ## Blockchain Related Projects
 
