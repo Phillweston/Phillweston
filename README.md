@@ -1,10 +1,14 @@
-<p align="center">
-  <img src="main-logo.png" alt="Phillweston Description" width="150"/>
-</p>
-
 # Phillweston: A Journey in Electronic Information Engineering & Beyond
 
+<p align="center">
+  <img src="./img/main-logo.png" alt="Phillweston Logo" width="150"/>
+</p>
+
 👋 **Welcome to My Space!** I'm Phillweston.
+
+<p align="center">
+  <img src="./img/university-logo.png" alt="University Logo" width="150"/>
+</p>
 
 🏫 **Academic Background:** Proud alumnus of Xidian University, where I honed my skills and earned a Bachelor's degree in Electronic Information Engineering.
 
@@ -12,7 +16,28 @@
 
 🌱 **Research & Innovation:** As part of my undergraduate capstone project, I delved into the realm of Unmanned Aerial Vehicles (UAVs). My research focused on Autonomous Waypoint Flight and developing a cutting-edge Dual-Photothermal Imaging Target Detection Algorithm.
 
-🔧 **My Recent Projects:** I'm currently working on a series of projects that explore the intersection of Blockchain Technology and AI-based Failure Detection Systems for Hard Drives.
+🔧 **My Previous Projects:** I've worked on a series of projects that explore the intersection of Blockchain Technology and AI-based Failure Detection Systems for Hard Drives.
+
+🚀 **Current Focus:** I'm currently focusing on algorithm implementation on FPGA chips to enhancing the parallel speed especially in signal processing and image processing.
+
+📚 **My Past Projects:** Here are some of the projects I've worked on:
+
+<p align="center">
+  <img src="./img/project-img1.jpg" alt="project-img1" width="500"/>
+  <img src="./img/project-img2.png" alt="project-img2" width="500"/>
+  <img src="./img/project-img3.png" alt="project-img3" width="500"/>
+  <img src="./img/project-img4.png" alt="project-img4" width="500"/>
+  <img src="./img/project-img5.png" alt="project-img5" width="500"/>
+  <img src="./img/project-img6.png" alt="project-img6" width="500"/>
+  <img src="./img/project-img7.png" alt="project-img7" width="500"/>
+  <img src="./img/project-img8.png" alt="project-img8" width="500"/>
+  <img src="./img/project-img9.jpg" alt="project-img9" width="500"/>
+</p>
+
+## FPGA & Digital Design Projects
+
+- [FPGA Training](https://github.com/Phillweston/fpga_training): A collection of FPGA training materials, including Verilog and VHDL designs.
+- [FPGA Projects](https://github.com/Phillweston/fpga_projects): A collection of FPGA projects, including Verilog and VHDL designs.
 
 ## UAV & Control Theory Projects
 
@@ -48,6 +73,8 @@
 
 Programming Languages:
 
+![Verilog](https://img.shields.io/badge/Verilog-00599C?style=for-the-badge&logo=verilog&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-00599C?style=for-the-badge&logo=vhdl&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,6 +87,9 @@ Programming Languages:
 
 Programming Softwares:
 
+![Quartus Prime](https://img.shields.io/badge/Quartus%20Prime-0081A8?style=for-the-badge&logo=quartusprime&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-0C52A5?style=for-the-badge&logo=xilinx&logoColor=white)
+![Vitis](https://img.shields.io/badge/Vitis-0C52A5?style=for-the-badge&logo=xilinx&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
